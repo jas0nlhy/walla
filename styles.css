@@ -1,0 +1,15 @@
+/*Changes the font size to blue when mouse over*/
+h1:hover {
+  color: blue;
+}
+
+/*Changes the background to blue and text color to white when clicked*/
+h1:active {
+  background: blue;
+  color: white;
+}
+
+/*Aligns the main header to center*/
+h1 {
+  text-align: center;
+}
